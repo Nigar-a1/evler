@@ -1,0 +1,23 @@
+.yuxari{
+    background: #376bff;
+    height: 50px;
+    margin: 0;
+}
+li{
+    list-style: none;
+    float: left;
+    padding: 15px;
+    color: white
+}
+.sol{
+    float: right;
+    padding: 15px;
+    color: white; 
+}
+.awagi li{
+    color: black;
+}
+.awagi{
+    background: white;
+    
+}
